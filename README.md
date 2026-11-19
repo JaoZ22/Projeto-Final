@@ -187,8 +187,10 @@ O carrinho é um array em memória (`[{ id, qtd }]`). Ao finalizar, a mensagem d
 
 ## 👤 Autor(es)
 
-- **[SEU NOME]** — [seu e-mail ou LinkedIn / GitHub]
-- Orientador(a): **[NOME DO PROFESSOR]**
+- João Pedro Pereira Gonçalves — jp8467270@gmail.com
+- Luiz Eduardo De Souza Junior - 
+- Julio Cesar Zampolo - 
+- Orientador(a): Lucimar Sasso / Lucimeire 
 
 ---
 
